@@ -11,7 +11,7 @@ This folder contains all materials for Day 1 of the GDSS SQL workshop. The sessi
 |---|---|
 | `shopdb_workshop.sql` | Complete SQL script for the session — table setup, all teaching queries, exercises, and Day 2 preview queries |
 | `SQL_Session_Outline.docx` | Detailed session outline with timings, module breakdown, and learning outcomes |
-| `SQL_Facilitation_Presentation.ppts` | Facilitation PowerPoint presentation slides including basic definitions, exercises, and facilitation notes |
+| `SQL_Facilitation_Presentation.pptx` | Facilitation PowerPoint presentation slides including basic definitions, exercises, and facilitation notes |
 | `README.md` | This file |
 
 ---
